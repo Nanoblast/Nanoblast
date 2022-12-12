@@ -7,7 +7,7 @@ I’m currently studying Machine Learning and Data Science algorithms. As soon a
 Don't forget to check out these projects:
 - TRON - The recreation of the classic game of the 90's
 - EVCD - External Vehicle Condition detection
-- Arrowhead - Arrowhead Framework tutorial
+- Arrowhead - Arrowhead Framework tutorial (english version soon)
 
 
 
