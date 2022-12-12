@@ -1,4 +1,4 @@
-### Welcome fellow Adventurer, 👋
+### Welcome, fellow Adventurer, 👋
 
 I am Olivér, Software Engineer graduted from Budapest University of Technology and Economics. I am specialized in Network Architecture and Automation. Here you can find my previous project, few of them are open to discover. Feel free to explore them! ... and of course this is where I keep my private gems and codes as well.
 
