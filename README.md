@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome fellow Adventurer, 👋
 
-<!--
-**Nanoblast/Nanoblast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Olivér, Software Engineer graduted from Budapest University of Technology and Economics. I am specialized in Network Architecture and automation. Here you can find my previous project, few of them are open to discover. Feel free to explore them! ... and of course this is where I keep my private gems and codes as well.
 
-Here are some ideas to get you started:
+I’m currently studying Machine Learning and Data Science algorithms. As soon as I have something interesting I will add them to my public profile so You can check them out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Don't forget to check out these projects:
+- TRON - The recreation of the classic game of the 90's
+- EVCD - External Vehicle Condition detection
+- Arrowhead - Arrowhead Framework tutorial
+
+
+
